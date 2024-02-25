@@ -6,7 +6,7 @@ Horiseon Code Refactor Project
 
 This project utilised HTML and CSS to to refactor existing code for a webpage to make it more accessible by meeting a certain set of standards
 
-### The URL of the walkthrough video that demonstrates the application's functionality:
+### The URL of the deployed page
 
 https://drive.google.com/file/d/1Ny_tPG37AIn8fnobOGrtFpVznShCiEC2/view?usp=sharing
 
@@ -16,36 +16,10 @@ https://github.com/Jean-003/Horiseon_Code_Refactor
 
 ## Usage
 
-To generate a high-quality proffessional README.md file with the following criteria:
+To view the alternative text for all the images and icons on this webpage, the user should:
 
-Title of the project
+Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (macOS). This opens a pane to the side of the webpage or below the webapage in the browser. Next, the user should look for the HTML tag that says 'alt= "_Description_" ' The text that can be seen in the HTML pane represented here by _Description_ is the alt text.
 
-Sections entitled:
-
--Description
--Table of Contents
--Installation
--Usage
--License
--Contributing
--Tests
--Questions
-
-
-User should run the following command in their terminal or their GitBash:
-
-```
-node index.js
-
-```
-
-Next, the user will be prompted to enter an answer to the first question shown below:
-
-_What is the title of the project?_
-
-Upon entering an answer, a series of 9 more questions requesting the user to enter their responses follows.
-
-At the end of this, the user is alerted that a proffessional README.md file with the user's responses has been successfully generated.
 
 ## Licences 
 
