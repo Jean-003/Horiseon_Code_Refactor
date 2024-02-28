@@ -22,7 +22,7 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 
 **Images displaying the website in the browser**
 
-
+1.
 ![Screenshot 2024-02-28 104851](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/0c50f5ba-e812-4e44-ae5d-e63be16b50ad)
 
 
@@ -30,7 +30,7 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 
 
 
-
+2.
 ![Screenshot 2024-02-28 105043](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/719292dd-4eb1-4ebe-b61b-f9b3c344ba74)
 
 
@@ -38,7 +38,7 @@ Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option
 
 
 
-
+3.
 ![Screenshot 2024-02-28 104918](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/94465d37-4b84-4bc5-868c-a94218268769)
 
 
