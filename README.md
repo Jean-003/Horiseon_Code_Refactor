@@ -8,7 +8,7 @@ This project utilised HTML and CSS to to refactor existing code for a webpage to
 
 ### The URL of the deployed page
 
-https://drive.google.com/file/d/1Ny_tPG37AIn8fnobOGrtFpVznShCiEC2/view?usp=sharing
+https://jean-003.github.io/Horiseon_Code_Refactor/
 
 ### The URL of the GitHub repository that contains the code:
 
