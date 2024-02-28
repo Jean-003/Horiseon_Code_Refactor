@@ -20,6 +20,20 @@ To view the alternative text for all the images and icons on this webpage, the u
 
 Open the Chrome DevTools by pressing Control+Shift+I (Windows) or Command+Option+I (macOS). This opens a pane to the side of the webpage or below the webapage in the browser. Next, the user should look for the HTML tag that says 'alt= "_Description_" ' The text that can be seen in the HTML pane represented here by _Description_ is the alt text.
 
+![Images displaying the website in the browser]
+
+
+![Screenshot 2024-02-28 104851](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/0c50f5ba-e812-4e44-ae5d-e63be16b50ad)
+
+
+
+![Screenshot 2024-02-28 105043](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/719292dd-4eb1-4ebe-b61b-f9b3c344ba74)
+
+
+
+![Screenshot 2024-02-28 104918](https://github.com/Jean-003/Horiseon_Code_Refactor/assets/152238337/94465d37-4b84-4bc5-868c-a94218268769)
+
+
 
 ## Licences 
 
